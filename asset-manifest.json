@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Inspirational-Quotes/static/css/main.806c69b3.css",
+    "main.js": "/Inspirational-Quotes/static/js/main.7444c291.js",
+    "static/js/453.e1c2ac1a.chunk.js": "/Inspirational-Quotes/static/js/453.e1c2ac1a.chunk.js",
+    "static/media/83914.jpg": "/Inspirational-Quotes/static/media/83914.4904bfb2a8b41eba2e93.jpg",
+    "index.html": "/Inspirational-Quotes/index.html",
+    "main.806c69b3.css.map": "/Inspirational-Quotes/static/css/main.806c69b3.css.map",
+    "main.7444c291.js.map": "/Inspirational-Quotes/static/js/main.7444c291.js.map",
+    "453.e1c2ac1a.chunk.js.map": "/Inspirational-Quotes/static/js/453.e1c2ac1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.806c69b3.css",
+    "static/js/main.7444c291.js"
+  ]
+}
