@@ -1,0 +1,10 @@
+.glassy-card {
+    background: rgba(255, 255, 255, 0.1); 
+    backdrop-filter: blur(15px); 
+}
+.home-bg{
+    background-image: url('../assests/83914.jpg');
+    background-size: cover; /* Ensure the image covers the entire card */
+    background-position: center; 
+}
+  
